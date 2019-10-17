@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605711992926",
+    "firebase_url": "https://androidapp-fe586.firebaseio.com",
+    "project_id": "androidapp-fe586",
+    "storage_bucket": "androidapp-fe586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605711992926:android:910adfaac49129d5140ccf",
+        "android_client_info": {
+          "package_name": "com.example.collegelife.ui.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605711992926-ar2ott8sgtg8voi18oa13v1v2p11kvuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegelife.ui.main",
+            "certificate_hash": "a5f6be1cd6e4c54e860506f343be615ffb0cdd12"
+          }
+        },
+        {
+          "client_id": "605711992926-c17js4aplrjt3ktbuaj2je649a7124em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_pEJWVYb5Fz2j49u5Tpslx2wrYAskbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605711992926-c17js4aplrjt3ktbuaj2je649a7124em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
